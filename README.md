@@ -9,3 +9,11 @@ Snippet is an under-development, experimental idea that focuses on extracting si
 - Marc Isaac
 - Lucas Springer
 - Esteban Serna
+
+## Group Resources
+
+[![Code Climate](https://codeclimate.com/github/phoenx34/wav.snipe/badges/gpa.svg)](https://codeclimate.com/github/phoenx34/wav.snipe)
+
+[![Issue Count](https://codeclimate.com/github/phoenx34/wav.snipe/badges/issue_count.svg)](https://codeclimate.com/github/phoenx34/wav.snipe)
+
+[![Test Coverage](https://codeclimate.com/github/phoenx34/wav.snipe/badges/coverage.svg)](https://codeclimate.com/github/phoenx34/wav.snipe/coverage)
